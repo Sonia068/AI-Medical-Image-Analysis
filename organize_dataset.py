@@ -2,9 +2,7 @@ import os
 import shutil
 from pathlib import Path
  
-# ============================================================
-# EDIT THIS if your folder name is different
-# ============================================================
+
 SOURCE_DIR = Path("chest x-ray")
  
 TARGET_DIR = Path("data")
