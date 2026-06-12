@@ -1,4 +1,4 @@
-# AI Medical Image Analysis 🧠🩺
+# AI Medical Image Analysis 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
@@ -6,11 +6,11 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 A deep learning-based AI project that classifies medical images (like X-rays) into **Normal** or **Disease**.  
-It’s built to be easy to demo, easy to explain, and strong enough to include in a portfolio.
+
 
 ---
 
-## Project Overview ✨
+## Project Overview 
 
 This project builds a complete pipeline for medical image classification using a **Convolutional Neural Network (CNN)**.  
 It trains on labeled datasets and predicts whether an image is **Normal** or **Disease**.
@@ -19,7 +19,7 @@ You can run everything in a clean Streamlit dashboard that allows image upload, 
 
 ---
 
-## Problem Statement 🎯
+## Problem Statement 
 
 Medical image analysis is difficult to understand when it’s hidden inside code.  
 Recruiters and non-technical users need something they can **see** and **interact with**.
@@ -29,7 +29,7 @@ This project provides a simple flow:
 
 ---
 
-## Solution ✅
+## Solution 
 
 This system:
 
@@ -41,7 +41,7 @@ This system:
 
 ---
 
-## Industry Relevance 🌍
+## Industry Relevance 
 
 Used in:
 
@@ -53,7 +53,7 @@ Used in:
 
 ---
 
-## Tech Stack 🧰
+## Tech Stack 
 
 | Category       | Tool/Library       | Why it’s used       |
 | -------------- | ------------------ | ------------------- |
@@ -67,7 +67,7 @@ Used in:
 
 ---
 
-## Folder Structure (project layout) 📁
+## Folder Structure (project layout) 
 
 ```text
 AI-Medical-Image-Analysis/
@@ -106,7 +106,7 @@ AI-Medical-Image-Analysis/
 
 👉 Click the image to watch the full demo
 
-## Author 👤
+## Author 
 
 Built by **[Sonia Thakur]**
 
